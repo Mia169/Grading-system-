@@ -1,11 +1,16 @@
 Student Report Card Generator
 
+This beginner-friendly Python project, developed during the RITA Africa Bootcamp, helps users enter 
+student scores across multiple subjects, generate individual report cards with grades and pass/fail 
+status, and save these reports as files. It also identifies the top-performing student and creates a class 
+summary report.
+
 🚀 A Python program that automates the generation of student report cards and class summaries.
 
 Features
 📌 Input Student Data: Collects student names, subjects, and scores interactively.
 
-📊 Generate Individual Reports: Creates detailed report cards for each student, including:
+📊 Generate students Reports: Creates detailed report cards for each student, including:
 
 Subject-wise scores
 
@@ -49,3 +54,6 @@ _______________________
 📈 Add visual charts for performance trends.
 
 🔍 Include search functionality for student records.
+
+#Author: Bersabeh Girma Kassaye 
+#RITAAfricaBootcamp #python
